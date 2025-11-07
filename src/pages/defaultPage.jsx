@@ -6,7 +6,7 @@ import "aos/dist/aos.css";
 import img from "../assets/img.png"
 import img1 from "../assets/img1.png"
 import img2 from "../assets/img2.png"
-import logo from "../assets/logo.png"
+import logo from "../assets/Logo.png"
 import logo_2 from "../assets/logo_2.png"
 import image1 from "../assets/image1.png"
 import image2 from "../assets/image2.png"
