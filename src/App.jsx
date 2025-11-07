@@ -4,7 +4,7 @@ import Layout from './Layout/Layout'
 import DefaultPage from "./pages/defaultPage"
 import SecondPage from "./pages/secondPage"
 import ThirdPage from "./pages/thirdPage"
-import LastPage from "./pages/lastPage"
+import LastPage from "./pages/LastPage"
 
 const App = () => {
   const router = createBrowserRouter([
