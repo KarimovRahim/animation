@@ -35,7 +35,7 @@ const Layout = () => {
         
         {/* Mobile Menu Button */}
         <button 
-          className="lg:hidden w-10 h-10 text-[#0A2640] text-2xl font-bold flex items-center justify-center"
+          className="lg:hidden w-full h-10 text-[#0A2640] text-2xl font-bold flex items-center justify-center"
           onClick={toggleMobileMenu}
         >
           =
